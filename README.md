@@ -6,7 +6,7 @@ Neste desafio, você terá a oportunidade de aplicar os conceitos aprendidos at�
 ### Tecnologias Utilizadas
 - HTML
 - CSS (com ênfase em Flexbox)
-- CSS Resonsivo
+- CSS Responsivo
 
 ### Para ver a página
 [Link do projeto](https://fabiocasadossites.github.io/desafio-4-css-dio/)
